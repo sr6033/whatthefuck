@@ -5,7 +5,7 @@ with open("readme.md", "r") as fh:
 
 setuptools.setup(
     name="whatthefuck",                     # This is the name of the package
-    version="v1.1",                        
+    version="v1.2",
     author = 'Shubham Rath',                     # Full name of the author
     author_email = 'shubhamrath.iiitb@gmail.com',
     description = 'Frustration made me develop this script.',
